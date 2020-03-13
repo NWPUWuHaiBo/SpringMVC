@@ -1,0 +1,5 @@
+# Project exclude paths
+/No1_Servlet/target/
+/No2_HelloSpringMVC/target/
+/No3_Annotation/target/
+/out/
